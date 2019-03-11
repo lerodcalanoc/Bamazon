@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/QH1nENuKLB5Re/giphy.gif) [Click here to watch the demo video.](https://vimeo.com/322811994)
 
-Bamazon is an Amazon-like store front that utilizes Node.js and MySQL.
+Bamazon is an Amazon-like storefront that utilizes Node.js and MySQL.
 The app takes in orders from customers and depletes stock from the store's inventory.
 
 # How the app works:
